@@ -7,7 +7,7 @@ After completing this exercise, you should be able to discuss or answer the foll
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What is React?
-  It is a a development server that uses Webpack to compile React, JSX, and ES6, auto-prefix CSS files.
+  React is an open-source front-end JS library for builing UI based on components.
 
 - What is a React component?
   Componenets are like JavaScript functions: they accept arbitrary inputs (called 'props') and return React elements describing what should appear on the screen.
